@@ -1,7 +1,3 @@
-# Quantum Computing Resource
-
-This repository provides a concise, structured study plan for learners beginning quantum computing with Python and Qiskit.
-
 ## Repository Structure
 
 - `quantum-computing/`: Quantum learning track and core books.
