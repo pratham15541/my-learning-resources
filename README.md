@@ -23,7 +23,7 @@ A curated collection of high-quality books, guides, roadmaps, and learning mater
     <img src="https://img.shields.io/github/repo-size/pratham15541/awesome-learning-resources?style=for-the-badge" />
   </a>
 </p>
-<h3 align="center">🌟 If this repository helps you, consider giving it a star ⭐</h3>
+<h3 align="center">⭐ Star the repository to follow the journey • 🤝 Contribute to help build it better</h3>
 
 ---
 
