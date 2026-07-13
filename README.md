@@ -29,6 +29,7 @@ A curated collection of high-quality books, guides, roadmaps, and learning mater
 
 ## Repository Structure
 
+- [ai-ml/](ai-ml/README.md): Artificial intelligence, machine learning, and foundation model applications.
 - [devops/](devops/README.md): DevOps, observability, and production operations material.
 - [dsa/](dsa/README.md): Data structures, algorithms, and competitive programming resources.
 - [others/](others/README.md): Mixed practical books and developer-focused reading.
@@ -39,6 +40,7 @@ A curated collection of high-quality books, guides, roadmaps, and learning mater
 
 ## Reading Guides
 
+- [AI/ML books](ai-ml/books/README.md): Foundation models, machine learning systems, deep learning theory, and MLOps.
 - [DevOps books](devops/books/README.md): Production-ready engineering, observability, and operational habits.
 - [DSA books](dsa/books/README.md)
 - [Other books](others/books/README.md): CTO thinking, Java data structures, and interpreter building.

@@ -37,7 +37,9 @@ Learn:
 
 Resources:
 
+- [Object-Oriented Basics](books/Object-Oriented%20Basics%20-%20Grokking%20the%20Object%20Oriented%20Design%20Interview.pdf)
 - [Head First Design Patterns](books/Head%20First%20Design%20Patterns.pdf)
+- [Clean Architecture](books/Clean%20Architecture%20A%20Craftsman's%20Guide%20to%20Software%20Structure%20and%20Design.pdf)
 - LLD problems (parking lot, elevator, splitwise).
 
 Security focus:
@@ -61,8 +63,9 @@ Learn deeply:
 - Replication and sharding.
 - Message queues.
 
-Core resource:
+Core resources:
 
+- [Understanding Distributed Systems](books/Understanding%20Distributed%20Systems%202nd%20edition.pdf)
 - [Designing Data-Intensive Applications](books/Designing%20Data%20Intensive%20Applications.pdf)
 
 Focus questions:
@@ -332,3 +335,37 @@ Covers:
 - Refactoring practices that reduce complexity and technical debt.
 - Unit testing principles and boundaries for robust code.
 - Professional development discipline for long-term code quality.
+
+### Object-Oriented Basics
+
+File: `Object-Oriented Basics - Grokking the Object Oriented Design Interview.pdf`
+
+Covers:
+
+- Core object-oriented concepts (Inheritance, Polymorphism, Encapsulation, Abstraction).
+- Visualizing systems using UML diagrams and class diagrams.
+- Applying design principles to model real-world systems.
+- Preparation strategies for low-level design and object-oriented design interviews.
+
+### Clean Architecture
+
+File: `Clean Architecture A Craftsman's Guide to Software Structure and Design.pdf`
+
+Covers:
+
+- SOLID design principles at the component level.
+- Structuring software with clear boundaries and dependency rules.
+- Separation of concerns across enterprise business rules, application use cases, and interface adapters.
+- Designing architectures that keep options open and defer implementation details.
+
+### Understanding Distributed Systems
+
+File: `Understanding Distributed Systems 2nd edition.pdf`
+
+Covers:
+
+- Core communication patterns (network protocols, APIs, messaging).
+- Coordination protocols and consensus patterns in distributed networks.
+- Scalability primitives (load balancing, caching, partition strategies).
+- Designing resilient systems (retries, rate limiting, circuit breakers).
+- Security, monitoring, and operational observability for distributed deployments.
